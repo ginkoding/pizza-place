@@ -18,3 +18,11 @@
         </form>
       </section>
     </main>
+
+
+
+
+    <section class="desktopview">
+    <img src="./images/img_1.jpg" alt="promo" id="banner-promo">
+
+    </section>
